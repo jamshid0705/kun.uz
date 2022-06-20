@@ -1,0 +1,114 @@
+[
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1966",
+    "value": 196560000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1965",
+    "value": 194303000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1964",
+    "value": 191889000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1963",
+    "value": 189242000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1962",
+    "value": 186538000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1961",
+    "value": 183691000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  },
+  {
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "country": {
+      "id": "US",
+      "value": "United States"
+    },
+    "countryiso3code": "USA",
+    "date": "1960",
+    "value": 180671000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0
+  }
+]
